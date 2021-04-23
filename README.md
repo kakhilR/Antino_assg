@@ -2,5 +2,5 @@
 
  REST API for a Store
  
- first:- npm install
+ first:- npm install,
  to run :npm start
